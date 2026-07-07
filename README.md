@@ -1,5 +1,10 @@
-# 💫 About Me:
-B.Tech CSE (AI) Student | Aspiring Full-Stack Developer | Java • DSA • AI | Open to Internships
+## 👋 About Me
+
+🎓 **B.Tech CSE (AI) Student**
+💻 Passionate about **Java, Full-Stack Development, and Data Structures & Algorithms**
+🌱 Currently learning **Spring Boot, React, and Backend Development**
+🚀 Building projects and preparing for **Software Development roles**
+📫 Open to **Internship** and **Full-Time** opportunities
 
 
 ## 🌐 Socials:
